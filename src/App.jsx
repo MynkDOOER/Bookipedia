@@ -5,6 +5,7 @@ import Booklist from './pages/Booklist'
 import Bookdetails from './pages/Bookdetails'
 import Favorites from './pages/Favorites'
 
+
 const App = () => {
 
   return (
@@ -12,7 +13,7 @@ const App = () => {
       <Route path='/' element={<Layout/>}>
       <Route index element={<Home/>}/>
       <Route path='/books' element={<Booklist/>}/>
-      <Route path='/books:id' element={<Bookdetails/>}/>
+      <Route path='/books/:id' element={<Bookdetails/>}/>
       <Route path='/favorites' element={<Favorites/>}/>
       </Route>
     </Routes>

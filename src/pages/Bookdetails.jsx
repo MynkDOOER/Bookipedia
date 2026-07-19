@@ -23,6 +23,14 @@ const Bookdetails = () => {
         fetchBookDetails();
     }, [id])
 
+    if (loading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <span className="loading loading-spinner loading-lg text-primary"></span>
+      </div>
+    );
+  }
+
     return (
     <div className="min-h-screen bg-base-200 p-6 md:p-12">
       <div className="container mx-auto bg-base-100 rounded-3xl shadow-2xl p-8 md:p-16 border border-base-300">

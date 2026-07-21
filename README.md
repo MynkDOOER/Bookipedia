@@ -77,13 +77,8 @@ npm start
 
 The application will launch in your browser, typically at `http://localhost:3000`.
 
-## 🤝 Contributing
+## Author
 
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/MynkDOOER/Bookipedia/issues) if you want to contribute.
+Made by **Mayank**
 
-## 👨‍💻 Author
-
-**MynkDOOER**
-
-* GitHub: [@MynkDOOER](https://www.google.com/search?q=https://github.com/MynkDOOER)
+GitHub: https://github.com/MynkDOOER

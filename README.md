@@ -1,7 +1,7 @@
 
 # Bookipedia <img width="28" height="28" alt="book" src="https://github.com/user-attachments/assets/9ed8e05b-3957-49e0-a077-0408174b16b0" />
 
-Welcome to **Bookipedia**, a modern, sleek web application built with React.jsx that allows users to discover new books, view detailed information, and curate a personalized list of favorites.
+Welcome to **Bookipedia**, a modern, sleek web application built with Reactjs that allows users to discover new books, view detailed information, and curate a personalized list of favorites.
 
 ## Features
 
